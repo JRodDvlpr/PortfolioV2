@@ -1,0 +1,35 @@
+#top{
+    
+}
+
+#top .container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 80px 0;
+}
+
+#top .info{
+
+}
+
+#top .info h1{
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+#top .img{
+
+
+}
+
+#top .img .bg-img{
+    background: url('../img/Miami.jpg');
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 500px;
+    height: 700px;
+
+}
