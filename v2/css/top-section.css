@@ -9,13 +9,39 @@
 }
 
 #top .info{
+    padding: 15px;
+    position: relative;
 
 }
 
+#top .info .blue-sq{
+    border: 5px solid #dbf1ff;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    z-index: 1;
+}
 #top .info h1{
     font-size: 2rem;
     text-transform: uppercase;
+    font-weight: 700;
+    color: #16171b;
+    margin-bottom: 2rem;
+}
+
+#top .info p{
+    color: #919191;
+    text-transform: capitalize;
+    margin-bottom: 4rem;
+
+}
+
+#top .info a{
+    color: #16171b;
+    padding: 5px;
     font-weight: 600;
+    text-decoration: none;
+    border-bottom: 2px solid #000;
 }
 
 #top .img{
