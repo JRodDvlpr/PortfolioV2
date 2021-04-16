@@ -1,5 +1,5 @@
 
-#top .container{
+#top .container-1{
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding: 80px 0;
@@ -52,7 +52,7 @@
     letter-spacing: 2px;
 }
 
-#top .img .bg-img{
+#top .img .background-img{
     background: url('../img/Miami.jpg');
     background-position: top center;
     background-repeat: no-repeat;
@@ -71,7 +71,7 @@
     #top .info .blue-sq{
       /* display: none; */
     }
-    #top .img .bg-img{
+    #top .img .background-img{
       height: 100vh;
     }
   }
@@ -83,7 +83,7 @@
     #top .info .blue-sq{
       display: none;
     }
-    #top .img .bg-img{
+    #top .img .background-img{
       height: 100vh;
     }
   }

@@ -1,9 +1,13 @@
-@import "cssreset.css";
 @import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Source+Sans+Pro:wght@200;700&display=swap');
+
+@import "cssreset.css";
 @import "top-section.css";
 @import "service-section.css";
+@import "portfolio-section.css";
+@import "experience-section.css";
+@import "testimonial-section.css";
 
-.container{
+.container-1{
   max-width: 1150px;
   margin: 0 auto;
 }
