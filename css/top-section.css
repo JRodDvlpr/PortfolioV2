@@ -12,7 +12,7 @@
 }
 
 #top .info .blue-sq{
-    border: 5px solid #dbf1ff;
+    border: 30px solid #dbf1ff;
     width: 500px;
     height: 500px;
     position: absolute;
@@ -68,10 +68,10 @@
     #top .container{
       padding: 0 0 80px;
     }
-    #top .info .blue-square{
+    #top .info .blue-sq{
       /* display: none; */
     }
-    #top .img .background-img{
+    #top .img .bg-img{
       height: 100vh;
     }
   }
@@ -80,10 +80,10 @@
     #top .container{
       padding: 0 0 80px;
     }
-    #top .info .blue-square{
+    #top .info .blue-sq{
       display: none;
     }
-    #top .img .background-img{
+    #top .img .bg-img{
       height: 100vh;
     }
   }
