@@ -31,6 +31,17 @@ tl.fromTo('.logo', {
 },
 ">-1.5"
 )
+.fromTo('.fas', {
+  x: 200,
+  opacity: 0,
+}, {
+  x:0, 
+  opacity: 1, 
+  delay: 0.5,
+  duration: 1.3,
+},
+">-1.5"
+)
 .fromTo('.background-img', {
   height: 0,
 
