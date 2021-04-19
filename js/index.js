@@ -37,10 +37,8 @@ tl.fromTo('.logo', {
 }, {
   x:0, 
   opacity: 1, 
-  delay: 0.5,
-  duration: 1.3,
+  duration: 0.5,
 },
-">-1.5"
 )
 .fromTo('.background-img', {
   height: 0,
