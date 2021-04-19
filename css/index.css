@@ -1,11 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Source+Sans+Pro:wght@200;700&display=swap');
 
 @import "cssreset.css";
-@import "top-section.css";
-@import "service-section.css";
-@import "portfolio-section.css";
-@import "experience-section.css";
-@import "testimonial-section.css";
+@import "landing-page/top-section.css";
+@import "landing-page/service-section.css";
+@import "landing-page/portfolio-section.css";
+@import "landing-page/experience-section.css";
+@import "landing-page/testimonial-section.css";
+@import "portfolio/portfolio-projects.css";
+@import "portfolio/open-weather.css";
 @import "footer-section.css";
 
 .container-1{
